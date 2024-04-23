@@ -1,0 +1,59 @@
+.navbar {
+    background-color: #5df20c;
+    color: rgb(6, 6, 6);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .logo span {
+    font-size: 20px;
+  }
+  
+  .search-employees {
+    flex-grow: 1;
+    text-align: center;
+  }
+  
+  .search-employees input[type="text"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  .account {
+    display: flex;
+    align-items: center;
+  }
+  
+  .account img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .notifications {
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  .notifications img {
+    width: 30px;
+  }
+   .saurav{
+    width: 16px;
+    height:16px;
+   }
+
+   
